@@ -1,10 +1,7 @@
 using System;
 using System.Collections;
 
-/*****************************************************************/
-/* Author  : Gavi Narra (gavi@liu.edu)                                     */
-/* Date    : 22 Dec 2003                                         */
-/*****************************************************************/
+ 
 namespace JawBreaker
 {
 	class Board
